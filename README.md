@@ -331,22 +331,6 @@ Financial technology systems
 
 ---
 
-## Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Anthonychiu1205/tw-market-data-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthonychiu1205&repo=tw-market-data-website&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Anthonychiu1205/tw-feature-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthonychiu1205&repo=tw-feature-engine&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Anthonychiu1205/tw-ai-investment-research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthonychiu1205&repo=tw-ai-investment-research&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ## Contact
